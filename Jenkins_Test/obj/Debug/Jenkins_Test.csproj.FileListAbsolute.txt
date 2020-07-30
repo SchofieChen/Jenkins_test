@@ -1,0 +1,6 @@
+E:\SoftwareArea\Jenkins\Jenkins_Test\Jenkins_Test\bin\Debug\Jenkins_Test.exe.config
+E:\SoftwareArea\Jenkins\Jenkins_Test\Jenkins_Test\bin\Debug\Jenkins_Test.exe
+E:\SoftwareArea\Jenkins\Jenkins_Test\Jenkins_Test\bin\Debug\Jenkins_Test.pdb
+E:\SoftwareArea\Jenkins\Jenkins_Test\Jenkins_Test\obj\Debug\Jenkins_Test.csprojAssemblyReference.cache
+E:\SoftwareArea\Jenkins\Jenkins_Test\Jenkins_Test\obj\Debug\Jenkins_Test.exe
+E:\SoftwareArea\Jenkins\Jenkins_Test\Jenkins_Test\obj\Debug\Jenkins_Test.pdb
